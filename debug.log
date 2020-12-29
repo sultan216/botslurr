@@ -1,0 +1,13 @@
+[1229/153824.940:ERROR:file_io_win.cc(162)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-lDBRGB\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1229/153824.941:ERROR:file_io_win.cc(171)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-lDBRGB\Crashpad\reports\113ca57b-e882-46e1-9bf4-6d0e5fcb105a.dmp: The system cannot find the path specified. (0x3)
+[1229/153824.941:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1229/153917.685:ERROR:file_io_win.cc(162)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-2Z52gE\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1229/153917.686:ERROR:file_io_win.cc(171)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-2Z52gE\Crashpad\reports\f804b7d0-b4ea-45a1-a45a-22f72ba50491.dmp: The system cannot find the path specified. (0x3)
+[1229/153917.699:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1229/154320.138:ERROR:file_io_win.cc(162)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-wcqku2\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1229/154320.139:ERROR:file_io_win.cc(171)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-wcqku2\Crashpad\reports\c369da7a-5f0e-45fd-b620-a636d0e3b260.dmp: The system cannot find the path specified. (0x3)
+[1229/154320.139:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
+[1229/155718.397:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1229/160033.021:ERROR:file_io_win.cc(162)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-fdubJW\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1229/160033.021:ERROR:file_io_win.cc(171)] CreateFile C:\Users\atan_uqi\AppData\Local\Temp\puppeteer_dev_chrome_profile-fdubJW\Crashpad\reports\87b619fd-70ea-4ad2-8b92-bbfbd23d2e75.dmp: The system cannot find the path specified. (0x3)
+[1229/160033.021:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed

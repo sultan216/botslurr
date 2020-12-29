@@ -1,0 +1,22 @@
+.idea
+.vscode
+.node-persist
+
+# test and debug
+testing.js
+debug.log
+
+# npm
+node_modules
+package-lock.json
+
+# session data
+session.data.json
+inori.data.json
+
+# temp-media
+storage/temp-media
+
+# media child file
+storage/json/
+storage/log/
